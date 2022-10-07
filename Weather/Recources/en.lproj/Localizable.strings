@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Shakhboz Tokhirov on 06/10/22.
+  
+*/
+
+"get_weather_info"="Get weather info";
+"choose_languge"="Choose language";
+"choose"="Choose";

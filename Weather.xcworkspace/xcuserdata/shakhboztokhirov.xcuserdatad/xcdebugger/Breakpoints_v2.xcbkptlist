@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD907322-EAE5-499B-9B35-290D69F450EE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AD7E76B-DE29-48B2-9F0C-0BDC67D7DE01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather/Service/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchWeatherData(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "594DE2E8-C23B-47C5-9A5C-1AC38CD819E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "weatherButtonPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "594DE2E8-C23B-47C5-9A5C-1AC38CD819E6 - 9bcc71c1c74d7eff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Weather.WeatherResponse&lt;Weather.WeatherModel&gt;) -&gt; () in Weather.ViewController.weatherButtonPressed(Any) -&gt; ()"
+                  moduleName = "Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shakhboztokhirov/Developer/Self/Weather/Weather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "594DE2E8-C23B-47C5-9A5C-1AC38CD819E6 - 9bcc71c1c74d7eff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Weather.WeatherResponse&lt;Weather.WeatherModel&gt;) -&gt; () in Weather.ViewController.weatherButtonPressed(Any) -&gt; ()"
+                  moduleName = "Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shakhboztokhirov/Developer/Self/Weather/Weather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

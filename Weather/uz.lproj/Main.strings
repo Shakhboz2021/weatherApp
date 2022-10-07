@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; configuration.title = "Get weather report"; ObjectID = "ADa-kz-DDw"; */
+"ADa-kz-DDw.configuration.title" = "Get weather report";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ADa-kz-DDw"; */
+"ADa-kz-DDw.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "WeatherApp"; ObjectID = "DaZ-hW-NIH"; */
+"DaZ-hW-NIH.title" = "WeatherApp";

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Shakhboz Tokhirov on 06/10/22.
+  
+*/
+
+"get_weather_info"="Информация о погоде";
+"choose_languge"="Выберите язык";
+"choose"="Выбирать";
