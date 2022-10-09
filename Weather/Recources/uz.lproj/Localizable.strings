@@ -7,5 +7,13 @@
 */
 
 "get_weather_info"="Ob-havo ma'lumoti";
+"get_weekly_weather_info" = "Haftalik ob-havo";
 "choose_languge"="Tilni tanlang";
 "choose"="Tanlash";
+"daily_temp"="Kunlik ob-havo";
+"current_temp"="Hozir: ";
+"city"="Shahar: ";
+"country"="Mamlakat: ";
+"sunset"="Quyosh botish: ";
+"sunrise"="Quuosh chiqish: ";
+"weather"="Ob-havo";

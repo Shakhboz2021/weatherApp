@@ -1,20 +1,24 @@
 PODS:
   - Alamofire (5.6.2)
+  - DateToolsSwift (5.0.0)
   - SnapKit (5.6.0)
 
 DEPENDENCIES:
   - Alamofire
+  - DateToolsSwift
   - SnapKit
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - DateToolsSwift
     - SnapKit
 
 SPEC CHECKSUMS:
   Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  DateToolsSwift: 4207ada6ad615d8dc076323d27037c94916dbfa6
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
 
-PODFILE CHECKSUM: 8b3e83b0382dd4e94b3526f52ada3ddedca2b009
+PODFILE CHECKSUM: 62930286665148b27479742264b5148c6c5ad05f
 
 COCOAPODS: 1.11.3

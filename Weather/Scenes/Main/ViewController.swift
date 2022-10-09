@@ -35,22 +35,12 @@ class ViewController: UIViewController {
     
     @IBAction func weatherButtonPressed(_ sender: Any) {
         
-        let params = [
-            "q":"Tashkent",
-            "lang": UDManager.shared.currentLanguageKey,
-            "cnt":16
-        ] as [String : Any]
+        let coord = Coord(lon: mapView.region.center.longitude, lat: mapView.region.center.latitude)
         
-        let urlForDailyWeather = WeatherAPI.getURL(params: params)
+        let weatherRouter = DetailedWeatherInfoRouter.getWeatherDetails(with: coord)
+        guard let vc = weatherRouter.entryPoint else { return }
+        navigationController?.pushViewController(vc, animated: true)
         
-        WeatherService.shared.fetchWeatherData(url: urlForDailyWeather) { result in
-            switch result {
-            case .success(let weather):
-                print(weather)
-            case .failure(let errorType):
-                print(errorType)
-            }
-        }
     }
     
     @objc func chooseLanguage() {

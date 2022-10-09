@@ -1,5 +1,5 @@
 //
-//  WeatherModel.swift
+//  EntityDailyWeatherList.swift
 //  Weather
 //
 //  Created by Shakhboz Tokhirov on 07/10/22.

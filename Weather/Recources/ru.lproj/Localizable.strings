@@ -7,5 +7,13 @@
 */
 
 "get_weather_info"="Информация о погоде";
+"get_weekly_weather_info" = "Еженедельная погода";
 "choose_languge"="Выберите язык";
 "choose"="Выбирать";
+"daily_temp"="Ежедневная погода";
+"current_temp"="Текущий: ";
+"city"="Город: ";
+"country"="Страна: ";
+"sunset"="Закат солнца: ";
+"sunrise"="Восход: ";
+"weather"="Погода";
